@@ -1,0 +1,17 @@
+---
+title: 'Resume: Tomas Gogorza'
+author: "Tomas Gogorza"
+date: "Sunday, September 20, 2015"
+output: pdf_document
+---
+
+
+#Experience / Technologies
+
+
+
+
+
+
+
+This resume (including figures) was created with R
